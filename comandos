@@ -22,3 +22,17 @@ La primera vez que lo hagamos nos pedirá el usuario de github y la contraseña 
 6) git status - Nos dice el estado de mis archivos
 7) git log - Nos dice los commits que se hicieron. Despliega los commit hash
 8) git diff --stat HASH - nos muestra los cambios específicos para ese commit
+
+
+Los comando de terminal que vimos hoy son los siguientes:
+cd         -> Nos permite navegar. (.. nos permite ir a una carpeta arriba/padre)
+ls         -> Nos dice qué archivos y carpetas se encuentran en mi locación actual
+ls -l     -> COMPLETA
+pwd     -> Nos dice en dónde estamos
+mkdir    -> Creamos una nueva carpeta/directorio
+touch     -> Nos permite crear un archivoch
+mv         -> Movemos un archivo de lugar
+chmod    -> Permisos (777)
+rm         -> Eliminar archivo o carpeta (vacío)
+rm -rf    -> Eliminar archivo o carpeta (no vacío)
+rmdir    -> Eliminar carpeta
